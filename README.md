@@ -1,8 +1,8 @@
 # PID_Iontra
- exercise of basic PID build in CPP.
- This repository includes the PID controller itself (PID.cpp and h) and a main function which shows how to use the controller.
- It also contain a test vector (SP.txt) for main function to use, where the goal is to generate output vectors to be analysed in your favorit analysis tool (python/matlab etc). 
- Generating a unit test by comparing outputs to a golden known vectors could also have been done.
+ exercise of basic PID build in CPP.  
+ This repository includes the PID controller itself (PID.cpp and h) and a main function which shows how to use the controller.  
+ It also contain a test vector (SP.txt) for main function to use, where the goal is to generate output vectors to be analysed in your favorit analysis tool (python/matlab etc).   
+ Generating a unit test by comparing outputs to a golden known vectors could also have been done.  
  
  # theory
  PID controller design to minimize the difference between wanted state (set value) and given output of a system (process value).
